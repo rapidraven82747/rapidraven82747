@@ -1,16 +1,25 @@
-## Hi there 👋
+# rapidraven82747
 
-<!--
-**rapidraven82747/rapidraven82747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another developer figuring things out one commit at a time.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building small projects in my free time.  
+Interested in backend stuff, automation, and clean code.
+
+Still early in the journey — mostly experimenting and improving step by step.
+
+### Tech stack
+
+- Python
+- JavaScript / Node.js
+- Git & Linux
+- A bit of SQL and Docker when needed
+
+### Projects
+
+Nothing public yet. Working on a few personal tools and will push them here when ready.
+
+---
+
+Thanks for stopping by.
